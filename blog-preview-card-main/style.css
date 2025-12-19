@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Figtree';
+  src: url('assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+}
+
+html {
+  font-family: 'Figtree', sans-serif;
+  background-color:  hsl(47, 88%, 63%);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.container {
+  
+  
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+.mainbox {
+
+  width : clamp(300px, 20vw , 25vw);
+  box-sizing: border-box;
+  padding:20px;
+  border : 2px solid; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow : 5px 8px; 
+  background-color: white;
+}
+
+.imagebox {
+  width: 100%;
+  
+}
+
+.top_img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.content_div
+{
+  padding-top : 10px; 
+}
+
+.btn_div
+{
+  padding-top : 16px; 
+  padding-bottom : 8px;
+}
+
+.btn_div button
+{
+  padding : 10px; 
+  font-weight: bold;
+  border : none; 
+  background-color: hsl(47, 88%, 63%);
+  border-radius: 5px;
+  cursor : pointer
+}
+
+.time_tag
+{
+  font-size: 0.85em;
+  padding-bottom : 8px;
+}
+
+.course_title
+{
+  font-weight: bolder;
+  width : 100%; 
+  font-size: clamp(1rem, 1.4vw, 1.4rem);
+  padding-top : 8.5px; 
+  padding-bottom : 8.5px; 
+}
+
+.course_content p 
+{
+  margin-top : -2px; 
+  line-height: 1.65;
+  font-size: clamp(0.7rem, 0.8vw, 1rem);
+  color : hsl(0, 0%, 42%); 
+}
+
+.user_profile
+{
+  display : flex;  
+}
+.user_img
+{
+  width : 45px; 
+  height: 45px;
+}
+
+.user_profile p 
+{
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+
