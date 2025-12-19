@@ -5,9 +5,9 @@ Frontend Mentor challenges help improve front-end skills by building realistic p
 
 ---
 
-## 📌 Overview
+## Overview
 
-### 🔹 The challenge
+### The challenge
 
 Users should be able to:
 
@@ -16,25 +16,24 @@ Users should be able to:
 
 ---
 
-### 📷 Screenshot
+### Screenshot
 
 ![Screenshot of my solution](./preview.jpg)
 
 ---
 
-### 🔗 Links
+### Links
 
 - **Solution URL:** https://github.com/MangalaYazhini/Front-End-Projects/tree/main/blog-preview-card-main  
 - **Live Site URL:** https://effortless-puppy-e1d3e1.netlify.app
 
 
-*(Replace the Live Site URL after deployment)*
 
 ---
 
-## ⚙️ My process
+## My process
 
-### 🛠 Built with
+### Built with
 
 - HTML5
 - CSS3
@@ -43,7 +42,7 @@ Users should be able to:
 
 ---
 
-### 📚 What I learned
+### What I learned
 
 - Structuring components using semantic HTML
 - Using `flexbox` for layout alignment
@@ -52,7 +51,7 @@ Users should be able to:
 
 ---
 
-### 🚀 Continued development
+### Continued development
 
 In future projects, I want to:
 
@@ -62,7 +61,7 @@ In future projects, I want to:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 - **Name:** Mangala Yazhini Elanchezhian  
 - **Frontend Mentor:** https://www.frontendmentor.io/profile/MangalaYazhini  
@@ -70,6 +69,6 @@ In future projects, I want to:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Thanks to Frontend Mentor for providing well-structured challenges that help reinforce core front-end concepts.
