@@ -25,7 +25,8 @@ Users should be able to:
 ### 🔗 Links
 
 - **Solution URL:** https://github.com/MangalaYazhini/Front-End-Projects/tree/main/blog-preview-card-main  
-- **Live Site URL:** https://your-netlify-site.netlify.app  
+- **Live Site URL:** https://effortless-puppy-e1d3e1.netlify.app
+
 
 *(Replace the Live Site URL after deployment)*
 
