@@ -19,8 +19,7 @@ It is built using HTML and CSS and follows a simple layout.
 
 ### Links
 
-- Solution URL: https://github.com/your-username/qr-code-component
-- Live Site URL: https://your-live-site.netlify.app
+- Solution URL: https://github.com/MangalaYazhini/Front-End-Projects/tree/main/qr-code-component-main
 
 ---
 
