@@ -5,20 +5,20 @@ The goal of this project was to build a responsive profile card using HTML and C
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![Screenshot of the project](./preview.png)
 
 ---
 
-## 🔗 Links
+## Links
 
-- **Solution URL:** https://www.frontendmentor.io/solutions/social-links-profile-html-css
-- **Live Site URL:** https://your-live-site-url.netlify.app
+- **Solution URL:** https://github.com/MangalaYazhini/Front-End-Projects/tree/main/social-links-profile-main
+- **Live Site URL:** https://bright-crepe-aa11de.netlify.app
 
 ---
 
-## 🚀 My Process
+## My Process
 
 ### Built With
 
