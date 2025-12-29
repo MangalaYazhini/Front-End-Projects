@@ -1,0 +1,201 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Young Serif';
+  src: url('./assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(30, 54%, 90%);
+}
+
+h1 {
+  font-family: 'Young Serif', serif;
+  font-weight: 400;
+}
+
+
+*
+{
+  margin : 0px; 
+  padding : 0px; 
+}
+
+.attribution { font-size: 11px; text-align:center; margin-bottom:60px;  }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+.main_div
+{
+  
+  min-width : 270px; 
+  display:flex ; 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top : 10px; 
+  margin-bottom : 120px;
+}
+
+.sub_div
+{
+  
+  width : 60%;
+  min-width : 220px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  border-radius: 10px;
+  background-color: white;
+}
+
+
+.image_tag
+{
+  width : 95%; 
+  box-sizing: border-box;
+  border-radius:10px; 
+  margin-top : 10px; 
+}
+
+.content_div
+{
+  
+  margin-left : 5px; 
+  margin-right : 5px; 
+  padding-left : 12px; 
+  padding-right : 12px; 
+}
+
+.image_content_div
+{
+  display :flex; 
+  justify-content: center;
+  align-items: center;
+  padding-left : 0px; 
+  padding-right : 0px; 
+
+}
+
+.content_list li 
+{
+  margin-left : 20px; 
+}
+
+
+.content_list span
+{
+  font-weight: bold;
+}
+
+table
+{
+  width: 100% ; 
+  margin-top : 8px; 
+  border-collapse:collapse;
+}
+
+table tr
+{
+  
+  border : 2px solid  hsl(30, 18%, 87%); 
+  border-top: none;  
+  border-left: none;  
+  border-right: none;  
+  
+}
+
+table td
+{
+  padding : 10px; 
+}
+table tr:nth-child(4)
+{
+  border-bottom: none;
+}
+
+#title_tag
+{
+  font-size: 32px;
+}
+
+h1
+{
+  font-size: 1.25em;
+  color : hsl(14, 45%, 36%); 
+  padding-bottom: 5px; 
+}
+
+.content_div
+{
+  padding-top : 10px; 
+  padding-bottom : 10px; 
+}
+
+p, ul, ol ,td
+{
+  font-size : 0.65em; 
+  line-height: 1.5em;
+  color : hsl(30, 10%, 34%) ; 
+}
+
+
+hr
+{
+  margin-top : 15px; 
+}
+
+li
+{
+  padding-top : 5px; 
+  padding-bottom : 5px; 
+  
+}
+
+.preparation_div
+{
+  margin: 20px; 
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 5px;
+}
+
+.preparation_div li::marker
+{
+  color : hsl(332, 51%, 32%); 
+}
+
+.preparation_div h5
+{
+  color : hsl(332, 51%, 32%); 
+}
+
+ul li::marker, ol li::marker
+{
+  color : hsl(14, 45%, 36%); 
+}
+
+ol li::marker
+{
+  font-weight: bold;
+}
+
+
+ol li , ul li
+{
+  padding-left: 8px ;
+}
+
+.calories
+{
+  color : hsl(14, 45%, 36%); 
+  font-weight: bold;
+}
